@@ -1,1 +1,25 @@
 
+/* Borda quando inválido */
+.was-validated .form-control:invalid,
+.form-control.is-invalid {
+  border-color: #dc3545;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}
+
+/* Borda quando válido */
+.was-validated .form-control:valid,
+.form-control.is-valid {
+  border-color: #198754;
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25);
+}
+
+/* Mensagens de feedback */
+.invalid-feedback {
+  font-size: 0.85rem;
+  color: #dc3545;
+}
+
+.valid-feedback {
+  font-size: 0.85rem;
+  color: #198754;
+}
