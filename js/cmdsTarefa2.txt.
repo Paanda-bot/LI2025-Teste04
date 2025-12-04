@@ -1,0 +1,329 @@
+    1  pwd
+    2  cdomg
+    3  ls -all
+    4  ls
+    5  ls -v
+    6  dir
+    7  dir -v
+    8  cd
+    9  cd -v
+   10  dir
+   11  dir -all
+   12  0,01111*24
+   13  help
+   14  clear
+   15  dir
+   16  ls
+   17  ls -all
+   18  ls -v
+   19  cdls -all
+   20  dir
+   21  pwd
+   22  du
+   23  mkfile
+   24  mkdir
+   25  mkdir --help
+   26  mkdir  diario.txt
+   27  dir diario.txt
+   28  ls -all
+   29  touch diario.txt
+   30  echo "hello world, Ola planeta terra" >> diario.txt
+   31  touch diario.txt
+   32  echo diario.txt
+   33  ls diario.txt
+   34  cat diario.txt
+   35  cat --help
+   36  cas -a
+   37  cat -a
+   38  ca a
+   39  cat a
+   40  head diario.txt
+   41  stat diario.txt
+   42  echo diario.txt >> hello
+   43  echo diario.txt
+   44  cim
+   45  vim
+   46  oloko mo doido
+   47  color
+   48  mcolor
+   49  color
+   50  color green
+   51  color 1
+   52  \\ quir
+   53  vim
+   54  vim exercicio.txt
+   55  exit
+   56  pd
+   57  ps
+   58  ps |ps
+   59  ps |ps |ps
+   60  ps
+   61  ps |ps |ps
+   62  ps
+   63  ls
+   64  pwd
+   65  ls
+   66  ls |
+   67  ls \
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd home
+   74  ls
+   75  cd azureuser
+   76  ls
+   77  exit
+   78  git
+   79  sudo apt update
+   80  sudo apt update -y
+   81  sudo apt install apache2 -y
+   82  sudo systemctl status apache2
+   83  sudo systemctl start apache2
+   84  sudo systemctl enable apache2
+   85  git
+   86  git status
+   87  git statu
+   88  git status
+   89  git clone
+   90  https://github.com/Paanda-bot/oMeuProjetoHtml.git
+   91  ls
+   92  cd 
+   93  cd \
+   94  cd /
+   95  ls
+   96  cd /var/wwW/html
+   97  cd /var/www/html
+   98  ls
+   99  git clone https://github.com/Paanda-bot/oMeuProjetoHtml.git
+  100  sudo git clone https://github.com/Paanda-bot/oMeuProjetoHtml.git
+  101  ls
+  102  cd /var/www/html
+  103  ls
+  104  cat oMeuProjetoHtml
+  105  file
+  106  file .
+  107  exit
+  108  git clone https://github.com/Paanda-bot/oMeuProjetoHtml.git
+  109  chhhuuupa
+  110  exit
+  111  pwd
+  112  ls
+  113  mkdir 1
+  114  cd 1
+  115  ls
+  116  cd ..
+  117  rm 1
+  118  rmdir 1
+  119  ls
+  120  ls \
+  121  ls -R
+  122  echo hello world
+  123  echo hello world > seila
+  124  ls
+  125  cat eila
+  126  cat seila
+  127  rm seila
+  128  cat seila
+  129  j
+  130  kk
+  131  git
+  132  git --version
+  133  git config
+  134  git config -global user.name "ryan"
+  135  git config --global user.name "ryan"
+  136  git config --gobal 
+  137  git config --global user.gmail "ryanpossan14@gmail.com"
+  138  git clone https://github.com/Paanda-bot/LI2025-Teste03.git
+  139  ls
+  140  ls LI2025-Teste03
+  141  cd LI2025-Teste03
+  142  ls
+  143  mkdir A133302
+  144  ls
+  145  rm readme
+  146  rm readme.md
+  147  rm README.md
+  148  ls
+  149  cd A133302
+  150  ls
+  151  echo Teste de LI 2025/2026 >README.md
+  152  ls
+  153  cat README.md
+  154  cd ..
+  155  gir
+  156  git
+  157  git checkout
+  158  git checkout main
+  159  ls
+  160  git add .
+  161  git commit -m "2a tarefa concluida"
+  162  ls
+  163  cd A133302
+  164  ls
+  165  cat README.md
+  166  git pll origin main
+  167  git pull origin main
+  168  history > meusComandosAzure.txt
+  169  cat eusComandosAzure.txt
+  170  ls
+  171  cat meusComandosAzure.txt
+  172  cd ..
+  173  git add . && gir commit -m "history azure"
+  174  git add . && git commit -m "history azure"
+  175  exit
+  176  ls
+  177  cd Li2025-Teste03
+  178  ls
+  179  cd LI2025-Teste03
+  180  ls
+  181  git add
+  182  git add .
+  183  git push origin main
+  184  git config --global user.name "ryan"
+  185  git config --global user.gmail "ryanpossan14@gmai.com"
+  186  git push origin main
+  187  git clone https://github.com/Paanda-bot/LI2025-Teste03.git
+  188  git add .
+  189  git commit -m "nao acabei a tempo este serao em primcipio os comandos da maquina virtual"
+  190  git commit -m
+  191  git
+  192  git commit -m "nao acabei a tempo este serao em primcipio os comandos da maquina virtual"
+  193  ls
+  194  cd A133302
+  195  ls
+  196  git add.
+  197  git add . 
+  198  git commit -m "envio com atraso"
+  199  git pull
+  200  git pull 
+  201  git config pull.rebase false
+  202  git commit -m "envio com atraso"
+  203  git pull 
+  204  git commit -m "envio com atraso"
+  205  git push origin main
+  206  ls
+  207  git add .
+  208  git commit -m "errei"
+  209  git push origin main
+  210  ls
+  211  cd ..
+  212  ls
+  213  git add .
+  214  git commit -m "s"
+  215  git push origin main
+  216  pwd
+  217  ls
+  218  rm LI2025-Teste03
+  219  rmdir LI2025-Teste03
+  220  mkdir teste
+  221  ls
+  222  cd teste
+  223  mkdir LI
+  224  ls
+  225  cd LI
+  226  echo "# LI2025-Teste03" >> README.md
+  227  ls
+  228  git init
+  229  gi
+  230  git
+  231  git --version
+  232  git init
+  233  git add README.md
+  234  git commit -m "first commit"
+  235  git config --global user.name "ryan"
+  236  git config --global user.email "ryanpossan14@gmail.com"
+  237  git branch -M main
+  238  git remote add origin https://github.com/Paanda-bot/LI2025-Teste03.git
+  239  git push -u origin main
+  240  git clone https://github.com/Paanda-bot/LI2025-Teste03.git
+  241  ls
+  242  cd LI2025-Teste03
+  243  ls
+  244  mkdir A133302
+  245  ls
+  246  cd A133302
+  247  echo "# LI2025-Teste03" >> README.md
+  248  ls
+  249  echo readme
+  250  cat README.md
+  251  rm README.md
+  252  ls
+  253  echo "Teste de LI 2025/2026" >> README.md
+  254  cd ..
+  255  ls
+  256  git push branch main
+  257  git push main
+  258  git add .
+  259  git commit -m "2 tarefa concuida"
+  260  git push main
+  261  git push origin main
+  262  git pull origin main
+  263  pwd
+  264  ls
+  265  cp index.html >> "disciplinas.html"
+  266  cp --help
+  267  cp index.html disciplinas.html
+  268  ls
+  269  git add .
+  270  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  271  gut push origin main
+  272  git push origin main
+  273  git pull origin main
+  274  history > meusComandosAzure.txt
+  275  ls
+  276  cat meus ComandosAzure.txt
+  277  cat meusComandosAzure.txt
+  278  cd ..
+  279  cd TesteLI
+  280  ls
+  281  cd LI2025-Teste03
+  282  git add .
+  283  git commit "6 tarefa"
+  284  git push origin main
+  285  pwd
+  286  ls
+  287  git clone https://github.com/Paanda-bot/-LI2025-Teste04.git
+  288  ls
+  289  git clone https://github.com/Paanda-bot/-LI2025-Teste04.git
+  290  git pull
+  291  cd "./LI"="%-Teste04"
+  292  cd "./LI2025-Teste04"
+  293  cd "./-LI2025-Teste04"
+  294  git pull
+  295  cd ..
+  296  rmdir "./-LI2025-Teste04"
+  297  sudo rmdir "./-LI2025-Teste04"
+  298  ls
+  299  sudo rmdir ./-LI2025-Teste04
+  300  sudo rm ./-LI2025-Teste04
+  301  sudo rmdir -r ./-LI2025-Teste04
+  302  sudo rm -r ./-LI2025-Teste04
+  303  ls
+  304  git clone https://github.com/Paanda-bot/-LI2025-Teste04.git
+  305  ls
+  306  git clone
+  307  git clone https://github.com/Paanda-bot/LI2025-Teste04.git
+  308  ls
+  309  cd LI2025-Teste04
+  310  ls
+  311  mk dir "js"
+  312  mkdir js
+  313  mkdir css
+  314  ls
+  315  cd js
+  316  ls
+  317  echo "//ficheiro de script" > script.js
+  318  ls
+  319  cd ..
+  320  cd css
+  321  echo "" > style.css
+  322  ls
+  323  cd ..
+  324  ls
+  325  cd js
+  326  ls
+  327  cat script.js
+  328  cd..
+  329  history > cmdsTarefa2.txt.
